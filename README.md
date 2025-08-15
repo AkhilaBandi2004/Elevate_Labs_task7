@@ -73,7 +73,7 @@ This script does not require a specific dataset. It is designed to work with **a
 
 ---
 
-![alt text]("C:\Users\bandi\Downloads\resixze_output.png")
+![alt text](resixze_output.png)
 
 ##  dissecting the code
 
